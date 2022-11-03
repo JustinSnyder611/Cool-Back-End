@@ -18,7 +18,11 @@ All you need to do is start the server and user insomnia to make calls on it
 
 ## Usage
 
-To use it you need to start the server my using the command "npm start"
+First you need to seed the database by using the command "npm run seed"
+![First command](images/img1.png)
+
+Then use it you need to start the server my using the command "npm start"
+![Second command](images/img2.png)
 
 ## License
 
